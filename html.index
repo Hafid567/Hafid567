@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hafid Eka Pratama - Portofolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <img src="profile.jpg" alt="Foto Profil" class="profile-pic">
+            <h1>HAFID EKA PRATAMA</h1>
+            <p>Alamat: Jl.Komp SD Cibodas, Kota Tangerang</p>
+            <p>Phone: +62812-9233-2685</p>
+            <p>Email: hapidekapratama67@gmail.com</p>
+        </div>
+    </header>
+
+    <section id="profile">
+        <div class="container">
+            <h2>Profil</h2>
+            <p>Saya remaja berusia 19 tahun. Saya seorang lulusan SMK Teknik Komputer dan Jaringan dari SMKN 1 Tangerang. Saya belajar tentang jaringan seperti topologi jaringan, konfigurasi jaringan dasar untuk Cisco dan Mikrotik, memahami infrastruktur jaringan seperti switch dan router. Saya memiliki sifat pekerja keras dan suka belajar hal baru.</p>
+        </div>
+    </section>
+
+    <section id="experience">
+        <div class="container">
+            <h2>Pengalaman</h2>
+            <ul>
+                <li><strong>Praktek Kerja Lapangan di Digimind</strong> (April 2023 - Juni 2023)
+                    <ul>
+                        <li>Bekerja sebagai Administrasi</li>
+                        <li>Memasukkan Data</li>
+                        <li>Follow Up Peserta Pelatihan Prakerja</li>
+                        <li>Meminta Feedback dan Evaluasi dari Peserta Pelatihan</li>
+                        <li>Menginformasikan Pelatihan Lanjutan</li>
+                        <li>Host Live Suatu Produk di Marketplace</li>
+                    </ul>
+                </li>
+                <li><strong>Bekerja di PT. Kaydelna Gemilang Gasindo</strong> (Mei 2023 - Juli 2023)
+                    <ul>
+                        <li>Bekerja sebagai Helper</li>
+                        <li>Bekerja sebagai Admin APP</li>
+                    </ul>
+                </li>
+                <li><strong>Bekerja di PT. BSI J&T Corgo GW-Telesonik</strong> (Agustus 2024 - September 2024)
+                    <ul>
+                        <li>Bekerja sebagai Helper & Scanner</li>
+                    </ul>
+                </li>
+                <li><strong>Pelatihan Digital Marketing</strong> (Oktober 2024 - November 2024)
+                    <ul>
+                        <li>Menganalisis Data Pemasaran Digital</li>
+                        <li>Mengelola Kampanye Iklan Berbayar</li>
+                        <li>Melakukan Optimasi Mesin Pencari</li>
+                        <li>Mengelola Platform Media Sosial</li>
+                        <li>Menganalisis Data dengan Google Analytics</li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="education">
+        <div class="container">
+            <h2>Pendidikan</h2>
+            <p>SMKN 1 Kota Tangerang (2021 - 2024)</p>
+            <p>Jurusan: Teknik Komputer dan Jaringan</p>
+            <p>Saya mengambil jurusan ini karena keingintahuan saya terhadap pengelolaan dan pemeliharaan jaringan komputer serta perangkat keras. Menguasai dasar-dasar pemrograman, konfigurasi jaringan, perakitan komputer, dan troubleshooting.</p>
+        </div>
+    </section>
+
+    <section id="skills">
+        <div class="container">
+            <h2>Skill</h2>
+            <ul>
+                <li>Aplikasi Pendukung Kerja: Ms Word, Ms Excel, Ms Power Point</li>
+                <li>Desain: Canva</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="certificates">
+        <div class="container">
+            <h2>Sertifikat Pendukung</h2>
+            <ul>
+                <li>Sertifikat Praktek Kerja Lapangan</li>
+                <li>Sertifikat Lembaga Sertifikasi Profesi SMKN 1 Tangerang</li>
+                <li>Sertifikat Pelatihan Digital Marketing</li>
+            </ul>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Hafid Eka Pratama</p>
+    </footer>
+</body>
+</html>
